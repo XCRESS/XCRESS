@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 ; )<br>📚 I'm currently learning next framework<br>🎯 Goals: not forgetting imp things/ forgetting good movies<br>🎲 Fun fact: hate social media, talking pics & revisiting codes older than 2-3 months</p>
+<p align="left">✨ Creating bugs since 2021 ; )<br>📚 I'm currently learning advance system designs<br>🎯 Goals: not forgetting imp things/ forgetting good movies<br>🎲 Fun fact: hate posting on social media, talking pics & revisiting codes older than 2-3 months</p>
 
 ###
 
