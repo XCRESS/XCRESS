@@ -40,8 +40,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/xcress/count.svg?"  />
-</div>
-
-###
